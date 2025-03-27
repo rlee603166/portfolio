@@ -1,0 +1,18 @@
+# Compiled output
+/dist
+/build
+
+# Dependencies
+/node_modules
+
+# IDE and OS files
+.idea
+*.vscode
+*.swp
+*.swo
+.DS_Store
+
+# Logs and temp files
+*.log
+tmp/
+temp/
